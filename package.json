@@ -168,7 +168,7 @@
     "remark-directive": "3.0.0",
     "remark-frontmatter": "4.0.1",
     "remark-gfm": "3.0.1",
-    "remark-mdx": "2.3.0",
+    "remark-mdx": "3.1.1",
     "remark-pangu": "2.2.0",
     "remark-parse": "9.0.0",
     "remark-preset-prettier": "0.5.1",
